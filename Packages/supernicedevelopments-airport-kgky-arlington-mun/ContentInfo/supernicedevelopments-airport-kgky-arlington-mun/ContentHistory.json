@@ -1,0 +1,10 @@
+{
+  "package-name": "supernicedevelopments-airport-kgky-arlington-mun",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "KGKY",
+      "revision": 1
+    }
+  ]
+}
